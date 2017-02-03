@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-     Copyright (C) 2016 The Android Open Source Project
-     Copyright (C) 2016 The CyanogenMod Project
 
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
--->
 <manifest>
 	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
 	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/sprd-common" name="koquantam/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/grandprimeve3g" name="koquantam/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
-	<project path="device/samsung/scx30g_v2-common" name="koquantam/android_device_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
-	<project path="hardware/sprd" name="koquantam/android_hardware_sprd" remote="github" revision="cm-14.1"/>
-	<project path="kernel/samsung/grandprimeve3g" name="koquantam/android_kernel_samsung_grandprimeve3g-CORE" remote="github" revision="cm-14.1"/>
-	<project path="vendor/samsung/grandprimeve3g" name="koquantam/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
-	<project path="vendor/samsung/scx30g_v2-common" name="koquantam/android_vendor_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
-	<project path="prebuilts/gcc/linux-x86/arm/linaro-6.2" name="koquantam/linaro-6.2" remote="github" revision="master"/>
+	<project path="device/samsung/sprd-common" name="remilia15/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/grandprimeve3g" name="remilia15/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/scx30g_v2-common" name="remilia15/android_device_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
+	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
+	<project path="kernel/samsung/grandprimeve3g" name="remilia15/android_kernel_samsung_grandprimeve3g-CORE" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/grandprimeve3g" name="remilia15/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/scx30g_v2-common" name="remilia15/android_vendor_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
+	<project path="prebuilts/gcc/linux-x86/arm/linaro-6.2" name="remilia15/linaro-6.2" remote="github" revision="master"/>
 </manifest>
