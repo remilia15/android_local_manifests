@@ -24,6 +24,6 @@
 	<project path="device/samsung/scx30g_v2-common" name="remilia15/android_device_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
 	<project path="hardware/sprd" name="remilia15/android_hardware_sprd" remote="github" revision="cm-14.1"/>
 	<project path="kernel/samsung/coreprimeve3g" name="remilia15/android_kernel_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
-	<project path="vendor/samsung/coreprimeve3g" name="remilia15/android_vendor_samsung_coreprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/coreprimeve3g" name="remilia15/android_vendor_samsung_coreprimeve3g" remote="github" revision="cm-13.0"/>
 	<project path="vendor/samsung/scx30g_v2-common" name="remilia15/android_vendor_samsung_scx30g_v2-common" remote="github" revision="cm-14.1"/>
 </manifest>
