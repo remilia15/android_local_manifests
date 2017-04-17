@@ -27,4 +27,6 @@
 	<project path="kernel/samsung/core33g" name="remilia15/android_kernel_samsung_core33g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/core33g" name="remilia15/android_vendor_samsung_core33g" remote="github" revision="cm-14.1"/>
 	<project path="vendor/samsung/scx30g-common" name="remilia15/android_vendor_samsung_scx30g-common" remote="github" revision="cm-14.1"/>
+	<remove-project name="LineageOS/android_frameworks_opt_telephony" />
+	<project path="frameworks/opt/telephony" name="gasterblasterxda/android_frameworks_opt_telephony" remote="github" revision="cm-14.1" />
 </manifest>
