@@ -17,7 +17,7 @@
 -->
 <manifest>
 	<project path="device/samsung/core33g" name="remilia15/android_device_samsung_core33g" remote="github" revision="lineage-15.1"/>
-	<project path="kernel/samsung/core33g" name="remilia15/android_kernel_samsung_core33g" remote="github" revision="lineage-15.1"/>
+	<project path="kernel/samsung/core33g" name="remilia15/android_kernel_samsung_core33g" remote="github" clone-depth="1" revision="lineage-15.1"/>
 	<project path="vendor/samsung/core33g" name="remilia15/android_vendor_samsung_core33g" remote="github" revision="lineage-15.1"/>
 </manifest>
 
